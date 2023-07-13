@@ -1,7 +1,7 @@
 .lnb ul{
     display: flex;
 }
-.lnb a{
+.lnb ul li a{
     display: block;
     padding: 10px;
 }
