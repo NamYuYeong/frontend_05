@@ -1,0 +1,7 @@
+.lnb ul{
+    display: flex;
+}
+.lnb a{
+    display: block;
+    padding: 10px;
+}
