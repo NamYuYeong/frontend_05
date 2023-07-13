@@ -37,3 +37,11 @@ ES7
 //rafcee : 화살표 함수 컴포넌트 export 별도 선언
 //rcc : 클래스형 컴포넌트
 
+# 크롬브라우저에 설치하는 개발도구
+react development tools
+각종 컴포넌트, state, props, context  확인할수 있는도구
+
+# react event handelr
+1. <button onMouseOver ={파라미터가 없는 함수명}>마우스오버</button>
+2. <button onMouseOver ={()=>{함수{(파라미터)}}>마우스오버</button>
+3. <button onMouseOver ={()=>{함수(파라미터)}>마우스오버</button>
